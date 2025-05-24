@@ -1,6 +1,6 @@
 # 💸 Cash Flow Minimizer
 
-> A Python + Java-based application to minimize cash flow among a group of people by optimizing their debts and payments using a greedy recursive algorithm.
+**A Python + Java-based application to minimize cash flow among a group of people by optimizing their debts and payments using a greedy recursive algorithm.**
 
 ---
 
